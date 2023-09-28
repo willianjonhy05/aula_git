@@ -1,0 +1,7 @@
+{
+    "cSpell.language": "pt-BR,en-US",
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.autopep8"
+    },
+    "python.formatting.provider": "none"
+}
